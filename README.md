@@ -19,11 +19,17 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Obsevations:
+   - Lending Club should be wary of the loans where the purpose is Small Business as the percentage of a loan being charged off is almost 30%
+   - Lending Club should consider accepting more loans from applicants whose annual income is greater than 30K as their probablity of charge off is minimum.
+   - Lending Club should consider accepting more loans from people with own house ownership.
+   - Lending Club should consider accepting more loans from people who are source verified.
+   - The number of loan are increasing with each passing year which is good for Lending Club.The last few months of the year are quite critical as most of the loans are either fully paid or cdefaulted at that time.
+   - Lending Club should consider accepting more loans of grade A than B as B contributes more to defaulted loans due to higher interest rates.
+   - Higher interest rates and less loan term is contributing to defaulted loans so Lending Club should look at the grades for loans before accepting as loan grade is proportional to term and interest rates.
+   - Wyoming is contributing to higer defaultes for higher loan amount so maybe Lending Club shoulf look at the spike.
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
